@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 modification
 =======
 test
->>>>>>> 6b8f0d6d9cc5a8320f99fb9ff6d923985aa95466
